@@ -1,0 +1,32 @@
+nav {
+  margin: 8px auto;
+  max-width: 324px;
+}
+
+#navlist {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #99f;
+}
+
+#navlist li {
+    float: left;
+    border-right:1px solid #fff;
+    width: 80px;
+}
+
+#navlist li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 4px 0px;
+    text-decoration: none;
+}
+
+#navlist li a:hover:not(.active) {
+    background-color: #fff;
+    color: #77e;
+}
+
