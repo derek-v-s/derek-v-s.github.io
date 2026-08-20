@@ -2,8 +2,6 @@
 title: The Art of Subjective Expression
 description: How specific, subjective language can decrease conflict and increase understanding.
 permalink: /subjective-expression.html
-stylesheet: /subjective-expression.css
-body_class: subjective-expression
 ---
 
 ## Core Concept
@@ -14,17 +12,11 @@ Most unnecessary conflicts arise from expressing ourselves at levels of abstract
 
 Communication exists on a spectrum:
 
-**Top level:** Broad judgments presented as facts ("That's wrong," "This is unfair")
-{: .level}
+- **Top level:** Broad judgments presented as facts ("That's wrong," "This is unfair")
+- **Middle level:** Personal views with some explanation ("I have concerns about this because...")
+- **Ground level:** Specific experiences with clear reasoning ("When X happened, I observed Y, which led me to think Z")
 
-**Middle level:** Personal views with some explanation ("I have concerns about this because...")
-{: .level}
-
-**Ground level:** Specific experiences with clear reasoning ("When X happened, I observed Y, which led me to think Z")
-{: .level}
-
-**Key insight:** Higher abstraction can lead to misunderstanding because everyone interprets vague words differently. Ground-level expression can lead to understanding even when people have irreconcilable differences in values or standards.
-{: .key-insight}
+> **Key insight:** Higher abstraction can lead to misunderstanding because everyone interprets vague words differently. Ground-level expression can lead to understanding even when people have irreconcilable differences in values or standards.
 
 ## How It Works
 
@@ -40,23 +32,9 @@ When people feel their autonomy is threatened by absolute statements ("You must,
 
 Tentative language defuses this dynamic:
 
-<div class="comparison">
-  <span class="tentative">"I'm inclined to think..."</span>
-  <span class="vs">vs.</span>
-  <span class="absolute">"The fact is..."</span>
-</div>
-
-<div class="comparison">
-  <span class="tentative">"My experience suggests..."</span>
-  <span class="vs">vs.</span>
-  <span class="absolute">"This proves..."</span>
-</div>
-
-<div class="comparison">
-  <span class="tentative">"I wonder if..."</span>
-  <span class="vs">vs.</span>
-  <span class="absolute">"You should..."</span>
-</div>
+- "I'm inclined to think..." vs. "The fact is..."
+- "My experience suggests..." vs. "This proves..."
+- "I wonder if..." vs. "You should..."
 
 Tentative framing creates space for engagement rather than resistance, allowing the merits of ideas to be considered without triggering automatic opposition.
 
