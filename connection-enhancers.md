@@ -2,7 +2,6 @@
 title: Connection Enhancers / Stabilizers
 description: A list of connection enhancers / stabilizers.
 permalink: /connection-enhancers.html
-sectioned: true
 ---
 
 ## Personal Attunement Skills

@@ -2,7 +2,6 @@
 title: Fundamental Human Motivations
 description: This webpage describes our most fundamental motivations.
 permalink: /motivations.html
-sectioned: true
 ---
 
 This list represents broad categories of fundamental drives shaping human behavior at a high level of abstraction:

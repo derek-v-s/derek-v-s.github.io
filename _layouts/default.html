@@ -12,22 +12,16 @@
 </head>
 <body{% if page.body_class %} class="{{ page.body_class }}"{% endif %}>
   <main>
-    {% if page.home %}
-      <img src="{{ '/complex_octagon_128.png' | relative_url }}" alt="Complex octagon" class="center">
-    {% else %}
-      <a href="{{ '/' | relative_url }}"><img src="{{ '/complex_octagon_128.png' | relative_url }}" alt="Complex octagon" class="center"></a>
-    {% endif %}
+    <a href="{{ '/' | relative_url }}"><img src="{{ '/complex_octagon_128.png' | relative_url }}" alt="Complex octagon" class="center"></a>
 
     <header>
       <h1>{{ page.title | default: site.title | escape }}</h1>
       {% if page.byline %}<div class="author">{{ page.byline | escape }}</div>{% endif %}
     </header>
 
-    {% if page.sectioned %}<section>
+    <section>
       {{ content }}
-    </section>{% else %}
-      {{ content }}
-    {% endif %}
+    </section>
   </main>
 </body>
 </html>

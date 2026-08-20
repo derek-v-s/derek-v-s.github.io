@@ -2,7 +2,6 @@
 title: Open Education Portal
 description: A list of open education resources.
 permalink: /openedu.html
-sectioned: true
 ---
 
 Open Education Resources (e.g. textbooks) have [permissive licenses](https://creativecommons.org/about/cclicenses/) that allow teachers to modify and use the resource for their own purpose. This eliminates the duplication of effort and the cost of buying textbooks.

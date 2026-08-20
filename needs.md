@@ -2,7 +2,6 @@
 title: Needs and Common Values
 description: This webpage describes our needs and common values.
 permalink: /needs.html
-sectioned: true
 ---
 
 ## Needs

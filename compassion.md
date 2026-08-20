@@ -2,7 +2,6 @@
 title: The Three Elements of Compassion
 description: This webpage describes the three elements of compassion.
 permalink: /compassion.html
-sectioned: true
 byline: Derek V. Schmalenberger
 ---
 
