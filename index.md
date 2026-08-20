@@ -4,34 +4,35 @@ description: The personal website of Derek V. Schmalenberger.
 permalink: /
 ---
 
-## My Content
+## My current interests
 
-- [The Art of Subjective Expression]({% link subjective-expression.md %})
-- [Connection Enhancers / Stabilizers]({% link connection-enhancers.md %})
-- [Fundamental Human Motivations]({% link motivations.md %})
-- [The Three Elements of Compassion]({% link compassion.md %})
-- [Needs and Common Values]({% link needs.md %})
+- rewilding
+- conflict prevention and resolution
+- linguistic structures that aid comprehension
+- knowledge presentation for encoding and recall
+- managing cognitive resources
+- persuation via honesty and thoroughness (clarity)
+- collaboration procedures and communication protocols
 
-## Other Interests
+## Things I think are important
 
-- [Open Education]({% link openedu.md %})
-- [The Rust Programming Language](https://www.rust-lang.org/)
-- [Native Plants and Rewilding](https://sbbotanicgarden.org/grow/why-native-plants/)
-- [Process Philosophy](https://iep.utm.edu/processp/)
+- considerateness
+- balance
+- tact
+- honesty
+- prioritization
+- composure
+- intellectual thoroughness
+- skill in traversing the abstraction ladder
 
 ## Important Questions
 
-> What do I really know?
->
-> What do I really control?
->
-> What is important to me?
->
-> What assumptions am I making?
->
-> What am I trying to accomplish?
->
-> What are the consequences of thinking this way?
+- What do I really know?
+- What do I really control?
+- What is important to me?
+- What assumptions am I making?
+- What am I trying to accomplish?
+- What are the consequences of thinking this way?
 
 ## Contact
 
