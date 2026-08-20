@@ -11,7 +11,7 @@ permalink: /
 - linguistic structures that aid comprehension
 - knowledge presentation for encoding and recall
 - managing cognitive resources
-- persuation via honesty and thoroughness (clarity)
+- persuasion via honesty and thoroughness (clarity)
 - collaboration procedures and communication protocols
 
 ## Things I think are important
