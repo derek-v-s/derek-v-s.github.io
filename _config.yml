@@ -1,0 +1,19 @@
+title: Derek V. Schmalenberger
+author: Derek V. Schmalenberger
+description: The personal website of Derek V. Schmalenberger.
+url: https://derek.exposed
+baseurl: ""
+
+markdown: kramdown
+strict_front_matter: true
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor

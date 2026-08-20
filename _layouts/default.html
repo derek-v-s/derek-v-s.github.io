@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="{{ page.description | default: site.description | escape }}">
+  <meta name="author" content="{{ site.author | escape }}">
+  <title>{{ page.title | default: site.title | escape }}</title>
+  <link rel="stylesheet" href="{{ '/style.css' | relative_url }}">
+  {% if page.stylesheet %}<link rel="stylesheet" href="{{ page.stylesheet | relative_url }}">{% endif %}
+  <link rel="icon" type="image/png" href="{{ '/complex_octagon_128.png' | relative_url }}">
+</head>
+<body{% if page.body_class %} class="{{ page.body_class }}"{% endif %}>
+  <main>
+    {% if page.home %}
+      <img src="{{ '/complex_octagon_128.png' | relative_url }}" alt="Complex octagon" class="center">
+    {% else %}
+      <a href="{{ '/' | relative_url }}"><img src="{{ '/complex_octagon_128.png' | relative_url }}" alt="Complex octagon" class="center"></a>
+    {% endif %}
+
+    <header>
+      <h1>{{ page.title | default: site.title | escape }}</h1>
+      {% if page.byline %}<div class="author">{{ page.byline | escape }}</div>{% endif %}
+    </header>
+
+    {% if page.sectioned %}<section>
+      {{ content }}
+    </section>{% else %}
+      {{ content }}
+    {% endif %}
+  </main>
+</body>
+</html>
