@@ -4,9 +4,9 @@ description: The personal website of Derek V. Schmalenberger.
 permalink: /
 ---
 
-## My current interests
+## My interests / matterings
 
-- rewilding
+- rewilding / preventing ecosystem degradation
 - conflict prevention and resolution
 - linguistic structures that aid comprehension
 - knowledge presentation for encoding and recall
@@ -14,7 +14,7 @@ permalink: /
 - persuasion via honesty and thoroughness (clarity)
 - collaboration procedures and communication protocols
 
-## Things I think are important
+## What I consider fundamental virtues
 
 - considerateness
 - balance
@@ -25,7 +25,7 @@ permalink: /
 - intellectual thoroughness
 - skill in traversing the abstraction ladder
 
-## Important Questions
+## Questions I consider important
 
 - What do I really know?
 - What do I really control?
