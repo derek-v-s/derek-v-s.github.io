@@ -4,26 +4,27 @@ description: The personal website of Derek V. Schmalenberger.
 permalink: /
 ---
 
-## My interests / matterings
+## My interests and matterings
 
-- rewilding / preventing ecosystem degradation
-- conflict prevention and resolution
-- linguistic structures that aid comprehension
-- knowledge presentation for encoding and recall
-- managing cognitive resources
-- persuasion via honesty and thoroughness (clarity)
-- collaboration procedures and communication protocols
+- Rewilding and preventing ecosystem degradation
+- Addressing the low-effort/high-satisfaction addiction crisis
+- Conflict prevention and resolution
+- Linguistic structures that aid comprehension
+- Knowledge presentation for encoding and recall
+- Managing cognitive resources
+- Persuasion via honesty and thoroughness (clarity)
+- Collaboration procedures and communication protocols
 
 ## What I consider fundamental virtues
 
-- considerateness
-- balance
-- tact
-- honesty
-- prioritization
-- composure
-- intellectual thoroughness
-- skill in traversing the abstraction ladder
+- Considerateness
+- Balance
+- Tact
+- [Honesty]({% link honesty.md %})
+- Prioritization
+- Composure
+- Intellectual thoroughness
+- Skill in traversing the abstraction ladder
 
 ## Questions I consider important
 
