@@ -17,7 +17,7 @@ permalink: /
 
 ## What I consider fundamental virtues
 
-- Considerateness
+- [Considerateness /  Compassion]({% link compassion.md %})
 - Balance
 - Tact
 - [Honesty]({% link honesty.md %})
