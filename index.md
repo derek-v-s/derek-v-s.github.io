@@ -7,13 +7,10 @@ permalink: /
 ## My interests and matterings
 
 - Rewilding and preventing ecosystem degradation
-- Addressing the low-effort/high-satisfaction addiction crisis
 - Conflict prevention and resolution
 - Linguistic structures that aid comprehension
 - Knowledge presentation for encoding and recall
-- Managing cognitive resources
 - Persuasion via honesty and thoroughness (clarity)
-- Collaboration procedures and communication protocols
 
 ## What I consider fundamental virtues
 
