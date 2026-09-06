@@ -4,11 +4,12 @@ description: Enlightenment through intellectual honesty
 permalink: /honesty.html
 ---
 
-The Zen Teachings of Bodhidharma proposes that "Not creating delusions is enlightenment." That got me thinking about what introspective questions can keep our thinking honest and free of delusions.
+The Zen Teachings of Bodhidharma proposes that "Not creating delusions is enlightenment." That got me thinking about the multitude of ways we create delusions.
 
-- What am I assuming?
-- Do I have a desire for this to be true and is that influencing my analysis?
-- Have I been thorough in gathering and weighing counter-evidence? 
-- Am I collapsing spectrums into dichotomies?
-- Am I transforming dynamic processes into static things?
-- Am I pretending my subjective evaluations are "objective facts"? 
+- Leaping from weak evidence to strong conclusions
+- Collapsing spectrums into dichotomies
+- Projecting our interpretations, beliefs and assumptions
+- Transforming dynamic processes into static things
+- Over-generalizing and over-simplifying
+- Trying to create permanence where there can be none
+- Using language that converts subjective evaluations into "objective facts"
