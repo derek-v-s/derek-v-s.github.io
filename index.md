@@ -17,7 +17,8 @@ permalink: /
 - [Considerateness /  Compassion]({% link compassion.md %})
 - Balance
 - Tact
-- [Honesty]({% link honesty.md %})
+- Honesty
+- [Lucidness]({% link lucidness.md %})
 - Prioritization
 - Composure
 - Intellectual thoroughness

@@ -1,7 +1,7 @@
 ---
-title: Honesty
-description: Enlightenment through intellectual honesty
-permalink: /honesty.html
+title: Lucidness
+description: Not creating delusions is enlightenment.
+permalink: /lucidness.html
 ---
 
 The Zen Teachings of Bodhidharma proposes that "Not creating delusions is enlightenment." That got me thinking about the multitude of ways we create delusions.
